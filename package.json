@@ -1,0 +1,25 @@
+{
+  "name": "complex-gui",
+  "version": "1.0.0",
+  "description": "GUI system for ComplexJS",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faebeee/complex-gui.git"
+  },
+  "keywords": [
+    "ComplexJS",
+    "Engine",
+    "HTML5",
+    "Game",
+    "Gaming",
+    "complex-engine",
+    "DOM",
+    "GUI"
+  ],
+  "author": "Faebeee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faebeee/complex-gui/issues"
+  },
+  "homepage": "https://github.com/faebeee/complex-gui#readme"
+}
