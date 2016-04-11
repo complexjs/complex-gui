@@ -8,7 +8,9 @@ gulp.task('default', function() {
 
 gulp.task('complex', function() {
   return gulp.src([
-    './src/**/*.js',
+    './src/Model/GuiScript.js',
+    './src/Model/GuiClickScript.js',
+    './src/System/DOMGuiSystem.js',
     ])
     .pipe(concat('complex-gui.js'))
     .pipe(gulp.dest('dist/'));

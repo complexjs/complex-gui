@@ -1,20 +1,3 @@
-'use strict';
-
-/**
- *
- */
-class GuiClickScript extends GuiScript{
-    constructor(){
-        super();
-    }
-
-    onClick(event){
-
-    }
-}
-
-'use strict';
-
 /**
  *
  */
@@ -64,7 +47,18 @@ class GuiScript
 
 }
 
-'use strict';
+/**
+ *
+ */
+class GuiClickScript extends GuiScript{
+    constructor(){
+        super();
+    }
+
+    onClick(event){
+
+    }
+}
 
 /**
  *

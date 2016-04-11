@@ -16,6 +16,10 @@
     "DOM",
     "GUI"
   ],
+  "devDependencies": {
+    "gulp": ">= x",
+    "gulp-concat": ">= x"
+  },
   "author": "Faebeee",
   "license": "ISC",
   "bugs": {
